@@ -1,6 +1,4 @@
-# Siv
-
-Python • Bash • AWS • Learning by Building
+# Sivario.B
 
 I’m focused on building strong programming and cloud fundamentals,
 with the goal of working in tech and growing into automation and cloud roles.
