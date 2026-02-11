@@ -1,79 +1,36 @@
-# Siv
-## Python Automation | AWS Cloud Engineering | Linux Systems
+# Sivario.B
 
-I design automation-first workflows using Python and AWS.
-My focus is replacing manual processes with secure, scalable scripts.
+Python Automation • AWS Cloud • Linux
 
-I build with one principle:
-If it can be repeated, it must be automated.
+I build automation-first systems using Python and AWS.
+My focus is replacing manual workflows with repeatable, secure scripts.
 
----
-
-## Engineering Focus
-
-Cloud Fundamentals:
-- IAM (least privilege design)
-- EC2 (compute orchestration)
-- S3 (static hosting, storage automation)
-- VPC (network isolation basics)
-- Lambda (event-driven compute)
-- CloudWatch (monitoring and visibility)
-
-Automation:
-- Python scripting for infrastructure tasks
-- boto3 (AWS SDK for Python)
-- CLI tooling
-- Git-based deployment workflows
-
-Systems:
-- Linux-first development
-- Bash scripting
-- Terminal-native workflows
+If a task can be done twice, it becomes automation.
 
 ---
 
-## Current Direction
-
-- AWS Certification track (Cloud Practitioner → Solutions Architect)
-- Infrastructure automation with Python
-- Secure cloud design patterns
-- Cost-aware engineering decisions
-
-Certificates validate knowledge.
-Automation proves competence.
+## Focus
+- Python scripting for automation
+- AWS core services (IAM, EC2, S3, VPC, Lambda, CloudWatch)
+- Linux & Bash workflows
+- CLI tools and infrastructure scripting
 
 ---
 
-## Selected Projects
+## Tech Stack
 
-### Python Essentials
-Focused exercises and practical scripting patterns.
-Built to reinforce loops, files, conditionals, and structure.
-https://github.com/siv-the-programmer/Python_essentials1
-
-### GitHub CLI Automation
-Menu-driven CLI to automate repetitive GitHub tasks.
-Built to reduce friction in daily workflows.
-https://github.com/siv-the-programmer/CLI_github_Menu_Automation
-
-More repositories demonstrate progressive automation thinking.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## How I Work
+## Selected Work
+- Python automation fundamentals  
+- GitHub CLI automation tools  
+- AWS scripting with boto3  
 
-- Manual steps are bugs.
-- Security is not optional.
-- Scripts should be readable by future-me.
-- Console clicking is a last resort.
-- Cloud resources must justify their cost.
-
----
-
-## Long-Term Goal
-
-Cloud engineer specializing in infrastructure automation.
-Python-driven AWS environments.
-Repeatable deployments.
-Auditable systems.
-Minimal human error.
+Code lives in the repositories.
