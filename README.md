@@ -17,7 +17,7 @@ This GitHub tracks my learning, practice projects, and skill progression.
 
 Gitagram is a community-driven platform where developers share GitHub repositories and receive structured, constructive feedback to improve their projects.
 
-[**View Project**](https://github.com/siv-the-programmer/Gitagram) | [**Live Demo**](siv-the-programmer.github.io/Gitagram/)
+[**View Project**](https://github.com/siv-the-programmer/Gitagram) | [**Live Demo**](https://siv-the-programmer.github.io/Gitagram/)
 
 </div>
 
