@@ -15,7 +15,7 @@ This GitHub tracks my learning, practice projects, and skill progression.
   <img src="https://raw.githubusercontent.com/siv-the-programmer/Gitagram/main/pics/pic1.png" style="max-width: 400px; width: 100%;">
 </a>
 
-Gitagram is unfinished project, its community-driven platform where developers share GitHub repositories and receive structured, constructive feedback to improve their projects.
+Gitagram is unfinished project, its a community-driven platform where developers share GitHub repositories and receive structured, constructive feedback to improve their projects.
 
 [**View Project**](https://github.com/siv-the-programmer/Gitagram) | [**Live Demo**](https://siv-the-programmer.github.io/Gitagram/)
 
