@@ -23,16 +23,6 @@ Gitagram is a community-driven platform where developers share GitHub repositori
 
 ---
 
-
-## What I’m Working On
-- Python fundamentals (loops, conditionals, functions, files)
-- Bash scripting for basic system tasks
-- AWS fundamentals (IAM, EC2, S3, Lambda, CloudWatch)
-- Writing small scripts to understand how automation works
-- Building habits that translate into real engineering skills
-
----
-
 ## Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
