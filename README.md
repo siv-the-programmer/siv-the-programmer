@@ -9,15 +9,21 @@ This GitHub tracks my learning, practice projects, and skill progression.
 
 <div align="center">
 
-### [Gitagram](https://github.com/siv-the-programmer/Gitagram)
+### [Pip Automated Package Manager](https://github.com/siv-the-programmer/Pip_Automated_Package_Manager)
 
-<a href="https://github.com/siv-the-programmer/Gitagram">
-  <img src="https://raw.githubusercontent.com/siv-the-programmer/Gitagram/main/pics/pic1.png" style="max-width: 400px; width: 100%;">
+<a href="https://github.com/siv-the-programmer/Pip_Automated_Package_Manager">
+  <img src="https://raw.githubusercontent.com/siv-the-programmer/Pip_Automated_Package_Manager/main/pics/pic1.png" style="max-width: 400px; width: 100%;">
 </a>
 
-Gitagram is unfinished project, its a community-driven platform where developers share GitHub repositories and receive structured, constructive feedback to improve their projects.
+Pip Automated Package Manager is a Python-based automation tool that programmatically manages `pip` dependencies to ensure consistent, reproducible environments.
 
-[**View Project**](https://github.com/siv-the-programmer/Gitagram) | [**Live Demo**](https://siv-the-programmer.github.io/Gitagram/)
+It focuses on:
+- Automating package installation workflows  
+- Reducing environment drift  
+- Enforcing controlled dependency management  
+- Improving reliability across development setups  
+
+[**View Project**](https://github.com/siv-the-programmer/Pip_Automated_Package_Manager)
 
 </div>
 
