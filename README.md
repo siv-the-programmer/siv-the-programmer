@@ -49,12 +49,3 @@ It focuses on:
 - Earn certifications to validate knowledge
 - Create projects that show progress, not perfection
 
----
-
-## Projects
-This profile contains:
-- Python practice projects
-- Bash scripts for everyday tasks
-- Early AWS and automation experiments
-
-Each repository represents a step forward.
