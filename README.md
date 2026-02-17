@@ -19,6 +19,7 @@ This GitHub tracks my learning, practice projects, and skill progression.
 </a>
 
 Pip Automated Package Manager is a Python-based automation tool that programmatically manages `pip` dependencies to ensure consistent, reproducible environments.
+Basically a menu for pip with all the packages categorize
 
 It focuses on:
 - Automating package installation workflows  
