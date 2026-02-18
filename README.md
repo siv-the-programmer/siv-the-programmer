@@ -1,7 +1,5 @@
 # Sivario.B
 
-![GitHub last commit](https://img.shields.io/github/last-commit/siv-the-programmerstyle=for-the-badge)
-
 I'm focused on building strong programming and cloud fundamentals,
 with the goal of working in tech and growing into automation and cloud roles.
 This GitHub tracks my learning, practice projects, and skill progression.
