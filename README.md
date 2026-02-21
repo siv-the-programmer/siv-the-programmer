@@ -10,7 +10,7 @@ This GitHub tracks my learning, practice projects, and skill progression.
 
 <div align="center">
 
-### [Clyppad – Infinite Canvas Note System](https://siv-the-programmer.github.io/Clyp-pad/)
+### [Clyppad – Infinite Canvas Note System](https://github.com/siv-the-programmer/Clyp-pad)
 
 <a href="https://siv-the-programmer.github.io/Clyp-pad/">
   <img src="https://raw.githubusercontent.com/siv-the-programmer/Clyp-pad/main/pics/pic1.jpg" width="250">
