@@ -6,26 +6,25 @@ This GitHub tracks my learning, practice projects, and skill progression.
 
 ---
 
-# Featured Project
+## Featured Project
 
 <div align="center">
 
-### [Pip Automated Package Manager(https://github.com/siv-the-programmer/Clyp-pad.git)
+### [Clyppad – Infinite Canvas Note System](https://siv-the-programmer.github.io/Clyp-pad/)
 
-<a href="https://github.com/siv-the-programmer/Pip_Automated_Package_Manager">
-  <img src="https://raw.githubusercontent.com/siv-the-programmer/Clyp-pad/main/pics/pic1.png" style="max-width: 400px; width: 100%;">
+<a href="https://siv-the-programmer.github.io/Clyp-pad/">
+  <img src="https://raw.githubusercontent.com/siv-the-programmer/Clyp-pad/main/pics/pic1.png" style="max-width:400px; width:100%;">
 </a>
 
-Pip Automated Package Manager is a Python-based automation tool that programmatically manages `pip` dependencies to ensure consistent, reproducible environments.
-Basically a menu for pip with all the packages categorize
+Clyppad is a local-first infinite canvas for notes, folders, shapes, and visual organization.
 
-It focuses on:
-- Automating package installation workflows  
-- Reducing environment drift  
-- Enforcing controlled dependency management  
-- Improving reliability across development setups  
+It runs entirely in the browser as a static web application.
+No backend. No authentication. No external database.
 
-[**View Project**](https://github.com/siv-the-programmer/Pip_Automated_Package_Manager)
+**Live Demo:** https://siv-the-programmer.github.io/Clyp-pad/  
+**Repository:** https://github.com/siv-the-programmer/Clyp-pad
+
+</div>
 
 </div>
 
