@@ -10,10 +10,10 @@ This GitHub tracks my learning, practice projects, and skill progression.
 
 <div align="center">
 
-### [Pip Automated Package Manager](https://github.com/siv-the-programmer/Pip_Automated_Package_Manager)
+### [Pip Automated Package Manager(https://github.com/siv-the-programmer/Clyp-pad.git)
 
 <a href="https://github.com/siv-the-programmer/Pip_Automated_Package_Manager">
-  <img src="https://raw.githubusercontent.com/siv-the-programmer/Pip_Automated_Package_Manager/main/pics/pic1.png" style="max-width: 400px; width: 100%;">
+  <img src="https://raw.githubusercontent.com/siv-the-programmer/Clyp-pad/main/pics/pic1.png" style="max-width: 400px; width: 100%;">
 </a>
 
 Pip Automated Package Manager is a Python-based automation tool that programmatically manages `pip` dependencies to ensure consistent, reproducible environments.
