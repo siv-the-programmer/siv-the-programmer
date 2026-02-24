@@ -6,29 +6,6 @@ This GitHub tracks my learning, practice projects, and skill progression.
 
 ---
 
-## Featured Project
-
-<div align="center">
-
-### [Clyppad – Infinite Canvas Note System](https://github.com/siv-the-programmer/Clyp-pad)
-
-<a href="https://siv-the-programmer.github.io/Clyp-pad/">
-  <img src="https://raw.githubusercontent.com/siv-the-programmer/Clyp-pad/main/pics/pic1.jpg" width="250">
-</a>
-
-Clyppad is a local-first infinite canvas for notes, folders, shapes, and visual organization.
-
-It runs entirely in the browser as a static web application.
-No backend. No authentication. No external database.
-
-**Live Demo:** https://siv-the-programmer.github.io/Clyp-pad/  
-**Repository:** https://github.com/siv-the-programmer/Clyp-pad
-
-</div>
-
-</div>
-
----
 
 ## Tools & Technologies
 
