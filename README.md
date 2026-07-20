@@ -4,7 +4,7 @@ Founder, builder, and engineer based in Cape Town, South Africa.
 
 I build and launch business systems, digital products, automation workflows, and startup infrastructure through **BuildsByBuchanan (PTY) LTD**.
 
-My work sits at the intersection of software engineering, business operations, cloud infrastructure, and venture building. I do not only build websites. I build the systems behind businesses: the platforms, workflows, tools, dashboards, automations, and technical foundations that help companies operate, grow, and launch properly.
+My work sits at the intersection of software engineering, business operations, cloud infrastructure, and venture building. I build the systems behind businesses: the platforms, workflows, tools, dashboards, automations, and technical foundations that help companies operate, grow, and launch properly.
 
 ---
 
@@ -88,20 +88,6 @@ My technical work focuses on practical, business-facing engineering:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## Current Build Areas
-
-- BuildsByBuchanan company infrastructure
-- Client business systems
-- Startup tools and launch systems
-- Lead-to-client lifecycle platforms
-- Training and certification platforms
-- Internal business dashboards
-- Cloud deployment workflows
-- Automation systems
-- Productized software experiments
 
 ---
 
