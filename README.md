@@ -20,25 +20,17 @@ I build business systems, automation, cloud infrastructure and software products
 
 ## Products
 
-- **Kittine** (open source): custom language with its own state syntax and JSX-like views, compiled to idiomatic Leptos 0.7 Rust and run in the browser via WebAssembly. Repos: [kittine](https://github.com/buildsbybuchanan/kittine), [kittine-registry](https://github.com/buildsbybuchanan/kittine-registry).
+- **Kittine** (open source): custom language with its own state syntax and JSX-like views, compiled to idiomatic Leptos 0.7 Rust and run in the browser via WebAssembly. See [kittine](https://github.com/buildsbybuchanan/kittine) and [kittine-registry](https://github.com/buildsbybuchanan/kittine-registry).
+- **Monthlys**: period and ovulation tracker for Android, distributed through **BBBSTORE**, the BuildsByBuchanan app store.
 - **Layla IDE / LaylaOS**: Claude, Gemini, ChatGPT and Kimi sessions side by side in one desktop shell, plus a custom Linux distro built around it.
-- **Monthlys**: personal finance Android app, distributed through **BBBSTORE**, the BuildsByBuchanan app store.
 - **Candlelight**: trading terminal with real Dukascopy backtesting and live MT5 execution.
-- **Internal tools**: PMO, on-call pager, lead tracker, Planr, business ops suite.
-
-## Selected client work
-
-Frad Pools (Vite, React, Supabase, blog and admin), Clean Credit (site plus traffic and enquiry dashboard), Mzansi Safari Tours (WordPress theme, Paystack), and other South African small-business builds.
 
 ## Public repositories
 
 | Repo | What it is |
 |---|---|
 | [Python_essentials1](https://github.com/siv-the-programmer/Python_essentials1) | Cisco Python Essentials 1 / PCEP study guide |
-| [api-syndicate](https://github.com/siv-the-programmer/api-syndicate) | API Syndicate QR landing site and courses |
-
-Everything else (Monthlys, BBBSTORE, the BuildsByBuchanan monorepo, Layla, client projects, trading apps) is private or lives in the [buildsbybuchanan organisation](https://github.com/buildsbybuchanan).
 
 ## Stack
 
-TypeScript, React, Next.js, Vite, Rust (Leptos, Axum), Python, PHP/WordPress, Electron, Capacitor, Supabase, Vercel, Paystack, Linux.
+TypeScript, React, Next.js, Vite, Rust (Leptos, Axum), Python, PHP/WordPress, Electron, Capacitor, Supabase, Vercel, Linux.
